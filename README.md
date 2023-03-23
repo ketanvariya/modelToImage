@@ -7,6 +7,9 @@ To start taking screenshots of GLB files
  modelToImage() function will convert glb model to image and download the image.
 
 ```sh
+npm i three
+```
+```sh
 async function convertmodelToImage(){
 
   // inFilePathUrl  - this will path of file or its dynamic for input tag then you can generate the filepath from file using blob
