@@ -21,6 +21,6 @@ convertmodelToImage()
 ```
 modelToImage() function will create threejs scene and load the model into scene and convert the threejs scene canvas to image and download the image, after all  you can modify the function as you want in this function.
 
-If you find any update, fork the update.
+If you find any updates, commit the update
 
 
